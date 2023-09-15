@@ -4,13 +4,16 @@
 
 ## [Portfolio](https://www.anzook.dev/) in progress
 
-<!--
-**anzook/anzook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Github markdown guide: https://guides.github.com/features/mastering-markdown/
+Initially made and deployed in <60 minutes,
 
 Built with: [NextJS](https://nextjs.org/)
 Styled with: official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs)
 Deployed on: [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example)
+<!--
+**anzook/anzook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Github markdown guide: https://guides.github.com/features/mastering-markdown/
+
+
 
 ## How to use
 Run `npm run dev` to start the engine.
